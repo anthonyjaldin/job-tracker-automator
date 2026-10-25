@@ -209,8 +209,7 @@ This project is open source and available under the MIT License.
 
 **Anthony Jaldin Guzman**  
 George Mason University - Cybersecurity Engineering Student  
-📧 a.jaldin18@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/anthonyguzman)
+📧 a.jaldin18@gmail.com  ]
 
 ---
 
